@@ -5,4 +5,4 @@ A KIM-1 Replica.
 
 ![alt text][def1]
 
-[def1]: images/IMG_4461.jpg
+[def1]: Photos/IMG_4461.jpg
