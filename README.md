@@ -5,6 +5,10 @@ PAL-1 with Motherboard Expansion Kit, 32KB RAM Expansion Kit, 2nd RIOT Expansion
 
 PI1541 from: https://github.com/tebl/C64-Pi1541-III
 
+And the Expansion ROM image from: https://groups.google.com/g/pal6502/c/loMjudhtTIg
+
+Let the xKIM and BASIC with PI1541 Disk function.
+
 <hr>
 
 ![alt text][def1]
