@@ -7,7 +7,7 @@ PI1541 from: https://github.com/tebl/C64-Pi1541-III
 
 And the Expansion ROM image from: https://groups.google.com/g/pal6502/c/loMjudhtTIg
 
-Let the PAL-1 running xKIM and BASIC with PI1541 Disk function.
+Let the PAL-1 running xKIM and BASIC with PI1541 Disk Dir. LOAD, SAVE function.
 
 <hr>
 
