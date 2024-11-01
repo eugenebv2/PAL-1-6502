@@ -14,3 +14,6 @@ Let the PAL-1 running xKIM and BASIC with PI1541 Disk Dir. LOAD, SAVE function.
 ![alt text][def1]
 
 [def1]: Photos/IMG_4461.jpg
+
+![alt text][def2]
+[def2]: Photos/CIMG0452.JPG
